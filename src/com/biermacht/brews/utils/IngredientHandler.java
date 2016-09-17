@@ -27,7 +27,7 @@ import java.util.Collections;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import biermacht.org.apache.commons.lang3.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 
 public class IngredientHandler {
 
